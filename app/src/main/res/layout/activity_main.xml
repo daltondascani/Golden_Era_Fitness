@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/grey"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/button_click5"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="1dp"
+        android:layout_marginEnd="1dp"
+        android:layout_marginBottom="27dp"
+        android:background="@color/gold"
+        android:text="About"
+        android:textColor="#3E2723"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/button_click4"
+        tools:ignore="HardcodedText,MissingConstraints,VisualLintOverlap,TouchTargetSizeCheck" />
+
+    <Button
+        android:id="@+id/button_click4"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="1dp"
+        android:layout_marginEnd="1dp"
+        android:layout_marginBottom="8dp"
+        android:background="@color/gold"
+        android:text="Pull"
+        android:textColor="#3E2723"
+        app:layout_constraintBottom_toTopOf="@+id/button_click5"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/button_click3"
+        tools:ignore="HardcodedText,MissingConstraints,VisualLintOverlap,TouchTargetSizeCheck" />
+
+    <Button
+        android:id="@+id/button_click3"
+        android:layout_width="409dp"
+        android:layout_height="0dp"
+        android:layout_marginBottom="9dp"
+        android:background="@color/gold"
+        android:text="Push"
+        android:textColor="#3E2723"
+        app:layout_constraintBottom_toTopOf="@+id/button_click4"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/button_click2"
+        tools:ignore="HardcodedText,MissingConstraints,VisualLintOverlap,TouchTargetSizeCheck" />
+
+    <Button
+        android:id="@+id/button_click2"
+        android:layout_width="409dp"
+        android:layout_height="0dp"
+        android:layout_marginBottom="9dp"
+        android:background="@color/gold"
+        android:text="Legs"
+        android:textColor="#3E2723"
+        app:layout_constraintBottom_toTopOf="@+id/button_click3"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/button_click"
+        tools:ignore="HardcodedText,MissingConstraints,VisualLintOverlap,TouchTargetSizeCheck" />
+
+    <Button
+        android:id="@+id/button_click"
+        android:layout_width="409dp"
+        android:layout_height="0dp"
+        android:layout_marginBottom="8dp"
+        android:background="@color/gold"
+        android:text="Body Mass Index Calculator"
+        android:textColor="#3E2723"
+        app:layout_constraintBottom_toTopOf="@+id/button_click2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView"
+        tools:ignore="HardcodedText,MissingConstraints,VisualLintOverlap,TouchTargetSizeCheck,TouchTargetSizeCheck" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="413dp"
+        android:layout_height="235dp"
+        android:layout_marginStart="5dp"
+        android:layout_marginEnd="5dp"
+        android:layout_marginBottom="36dp"
+        app:layout_constraintBottom_toTopOf="@+id/button_click"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.428"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/splash_image"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="207dp"
+        android:layout_height="32dp"
+        android:layout_marginTop="11dp"
+        android:text="Welcome to Golden Era Fitness!"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

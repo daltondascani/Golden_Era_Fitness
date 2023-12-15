@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Leg_Day1">Leg Day #1</string>
+    <string name="Leg_Day1_Workout1">"Barbell Squat             | 5 Sets x 5 Reps"</string>
+    <string name="Leg_Day1_Workout2">"Romanian Deadlift    | 3 Sets x 10 Reps"</string>
+    <string name="Leg_Day1_Workout3">"Quad Extensions       | 3 Sets x 12 Reps"</string>
+    <string name="Leg_Day1_Workout4">"Hamstring Curls        | 3 Sets x 12 Reps"</string>
+    <string name="Leg_Day1_Workout5">"Calve Raises              | 5 Sets x 20 Reps"</string>
+    <string name="Leg_Day1_Spacing"> </string>
+    <string name="Leg_Day2">Leg Day #2</string>
+    <string name="Leg_Day2_Workout1">"Barbell Squat             | 4 Sets x 8 Reps"</string>
+    <string name="Leg_Day2_Workout2">"Romanian Deadlift    | 3 Sets x 12 Reps"</string>
+    <string name="Leg_Day2_Workout3">"Quad Extensions       | 4 Sets x 10 Reps"</string>
+    <string name="Leg_Day2_Workout4">"Hamstring Curls        | 4 Sets x 10 Reps"</string>
+    <string name="Leg_Day2_Workout5">"Calve Raises              | 3 Sets x 20 Reps"</string>
+
+    <string name="Push_Day1">Push Day #1</string>
+    <string name="Push_Day1_Workout1">"Bench Press                          | 4 Sets x 6 Reps"</string>
+    <string name="Push_Day1_Workout2">"Cable Chest Fly                     | 3 Sets x 12 Reps"</string>
+    <string name="Push_Day1_Workout3">"Incline Dumbbell Press        | 3 Sets x 8 Reps"</string>
+    <string name="Push_Day1_Workout4">"Cable Tricep Extensions      | 4 Sets x 12 Reps"</string>
+    <string name="Push_Day1_Workout5">"Push Ups                                 | 4 Sets x 15 Reps"</string>
+    <string name="Push_Day1_Spacing"> </string>
+    <string name="Push_Day2">Push Day #2</string>
+    <string name="Push_Day2_Workout1">"Bench Press                           | 5 Sets x 5 Reps"</string>
+    <string name="Push_Day2_Workout2">"Cable Chest Fly                      | 4 Sets x 12 Reps"</string>
+    <string name="Push_Day2_Workout3">"Incline Dumbbell Press         | 3 Sets x 6 Reps"</string>
+    <string name="Push_Day2_Workout4">"Cable Tricep Extensions       | 4 Sets x 10 Reps"</string>
+    <string name="Push_Day2_Workout5">"Push Ups                                  | 4 Sets x 20 Reps"</string>
+
+    <string name="Pull_Day1">Pull Day #1</string>
+    <string name="Pull_Day1_Workout1">"Deadlift                                    | 5 Sets x 3 Reps"</string>
+    <string name="Pull_Day1_Workout2">"Pull-Ups                                   | 3 Sets x 10 Reps"</string>
+    <string name="Pull_Day1_Workout3">"Machine Lateral Pulldown   | 3 Sets x 8 Reps"</string>
+    <string name="Pull_Day1_Workout4">"Machine Row                          | 3 Sets x 12 Reps"</string>
+    <string name="Pull_Day1_Workout5">"Dumbbell Bicep Curl              | 4 Sets x 20 Reps"</string>
+    <string name="Pull_Day1_Workout6">"Seated Hammer Curl             | 4 Sets x 20 Reps"</string>
+    <string name="Pull_Day1_Spacing"> </string>
+    <string name="Pull_Day2">Pull Day #2</string>
+    <string name="Pull_Day2_Workout1">"Deadlift                                    | 4 Sets x 8 Reps"</string>
+    <string name="Pull_Day2_Workout2">"Pull-Ups                                   | 3 Sets x 10 Reps"</string>
+    <string name="Pull_Day2_Workout3">"Machine Lateral Pulldown   | 3 Sets x 8 Reps"</string>
+    <string name="Pull_Day2_Workout4">"Machine Row                          | 4 Sets x 10 Reps"</string>
+    <string name="Pull_Day2_Workout5">"Dumbbell Bicep Curl              | 4 Sets x 20 Reps"</string>
+    <string name="Pull_Day2_Workout6">"Seated Hammer Curl             | 4 Sets x 20 Reps"</string>
+</resources>
