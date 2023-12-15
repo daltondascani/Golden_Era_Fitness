@@ -2,7 +2,9 @@
 
 Welcome to the Golden Era Fitness App!
 
-This application is a basic fitness app with an old-school bodybuilder aesthetic, which focuses on the primary fitness goals of gaining muscle and losing body fat by intense weight training. 
+<img width="315" alt="Screenshot 2023-12-15 at 10 42 25 AM" src="https://github.com/daltondascani/Golden_Era_Fitness/assets/101837776/dbcb1da1-c55e-4421-83a0-bb6bc9ee69b4">
+
+This application is a basic fitness app with an old-school bodybuilder aesthetic, which focuses on the primary fitness goals of gaining muscle and losing body fat through intense weight training. 
 
 I have organized this app to allow the user to navigate between the different screens via the main menu. The first screen is a BMI calculator which lets the user know if they are obese, overweight, normal, or underweight.
 
